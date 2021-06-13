@@ -1,4 +1,4 @@
-package com.tx.get;
+package com.tx.git;
 
 public class GitTest {
 	
